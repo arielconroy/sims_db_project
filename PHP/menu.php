@@ -1,0 +1,2 @@
+<a href="listsims.php">Sims</a> <a href="listworlds.php">Worlds</a> <a href="listskills.php">Skills</a>
+<a href="listcareers.php">Careers</a> <a href="listtraits.php">Traits</a> <a href="listasp.php">Aspirations</a> <a href="listcontent.php">Content</a></br>
