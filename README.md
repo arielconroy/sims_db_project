@@ -1,1 +1,1 @@
-# csci-332-database
+# MYSQL Database Project
